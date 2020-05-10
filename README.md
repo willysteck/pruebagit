@@ -1,5 +1,6 @@
 # pruebagit
 prueba para aprender a programar codex
 
-hola coo estan
+hola como estan
 
+cambios desde el editor de git
